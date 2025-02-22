@@ -1,6 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-
-My name is Andrey
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey
 ==============================================================================================================================
 
 I am a master's student at the ITMO Higher School of Digital Culture in the field of data analytics
